@@ -48,12 +48,9 @@ Make sure that:
 ---
 
 ## Usage
-`ros2 run pmw3901_ros2 pmw3901_motion`
-`ros2 run pmw3901_ros2 pmw3901_frame_grab`
+- `ros2 run pmw3901_ros2 pmw3901_motion`
+- `ros2 run pmw3901_ros2 pmw3901_frame_grab`
 
-Expected topics:
-/pmw3901/motion : geometry_msgs/msg/Vector3 (delta_x, delta_y, delta_z(=0))
-/pmw3901/frame : sensor_msgs/msg/Image (frame buffer)
 
 ---
 
