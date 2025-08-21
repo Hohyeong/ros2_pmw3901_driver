@@ -3,7 +3,11 @@
 <package format="3">
   <name>pmw3901_ros2</name>
   <version>1.0.0</version>
-  <description>ROS2 package for PMW3901 optical flow sensor</description>
+  <description>ROS2 package for PMW3901 optical flow sensor. This project includes portions of code from the following repositories:</description>
+  <url type="repository">https://github.com/pimoroni/pmw3901-python/tree/main (MIT License)</url>
+  <url type="repository">https://github.com/bitcraze/Bitcraze_PMW3901/tree/master (MIT License)</url>
+
+  <author email="gms9095@kaist.ac.kr">Hohyeong Lee</author>
   <maintainer email="gms9095@kaist.ac.kr">Hohyeong Lee</maintainer>
   <license>Apache License 2.0</license>
 
