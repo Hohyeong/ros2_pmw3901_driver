@@ -20,7 +20,7 @@ Clone into your ROS 2 workspace:
 - `cd ~/ros2_ws/src`
 - `git clone https://github.com/Hohyeong/ros2_pmw3901_driver.git`
 - `cd ..`
-- `colcon build`
+- `colcon build --packages-select pmw3901_ros2`
 
 ---
 
